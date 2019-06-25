@@ -17,12 +17,12 @@ Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/
 
 ## Statoil/C-CORE Iceberg Classifier Challenge
 
-![iceberg1](iceberg.jpeg)
+![iceberg](iceberg.jpg)
 
 Download the data from [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data).
 
 ## Planet: Understanding the Amazon from Space
 
-![amazon1](amazon.jpeg)
+![amazon](amazon.jpg)
 
 Download the data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data).
