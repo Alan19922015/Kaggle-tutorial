@@ -14,3 +14,15 @@ Check out the corresponding medium blog post [Nucleus Segmentation using U-Net](
 ![ship](ship.png)
 
 Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/data).
+
+## Statoil/C-CORE Iceberg Classifier Challenge
+
+![iceberg](iceberg.jpeg)
+
+Download the data from [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data).
+
+## Planet: Understanding the Amazon from Space
+
+![amazon](amazon.jpeg)
+
+Download the data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data).
