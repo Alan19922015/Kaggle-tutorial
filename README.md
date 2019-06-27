@@ -17,7 +17,7 @@ Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/
 
 ## Statoil/C-CORE Iceberg Classifier Challenge
 
-![iceberg](iceberg.jpg)
+![iceberg](statoil.jpg)
 
 Download the data from [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data).
 
