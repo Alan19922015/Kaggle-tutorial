@@ -11,7 +11,7 @@ Check out the corresponding medium blog post [Nucleus Segmentation using U-Net](
 
 ## Airbus ship detection challenge
 
-![ship](ship.png)
+![ship](airbus.png)
 
 Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/data).
 
