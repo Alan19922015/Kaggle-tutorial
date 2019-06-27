@@ -21,6 +21,8 @@ Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/
 
 Download the data from [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data).
 
+Check out the corresponding medium blog post [Deep Learning for Iceberg detection in Satellite Images](https://medium.com/@abhinav.sagar/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0).
+
 ## Planet: Understanding the Amazon from Space
 
 ![amazon](amazon.jpg)
