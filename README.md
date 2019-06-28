@@ -17,6 +17,8 @@ Check out the corresponding medium blog post [Instance Segmentation of Nucleus I
 
 Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/data).
 
+Check out the corresponding medium blog post [Deep Learning for Ship Detection and Segmentation](https://medium.com/@abhinav.sagar/deep-learning-for-ship-detection-and-segmentation-71d223aca649).
+
 ## Statoil/C-CORE Iceberg Classifier Challenge
 
 ![iceberg](statoil.jpg)
