@@ -15,6 +15,8 @@ Check out the corresponding medium blog post [Instance Segmentation of Nucleus I
 
 ![ship](airbus.png)
 
+Ship detection from remote sensing imagery is a crucial application for maritime security which includes among others traffic surveillance, protection against illegal fisheries, oil discharge control and sea pollution monitoring. This is typically done through the use of an Automated Identification System (AIS), which uses VHF radio frequencies to wirelessly broadcast the ships location, destination and identity to nearby receiver devices on other ships and land-based systems.
+
 Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/data).
 
 Check out the corresponding medium blog post [Deep Learning for Ship Detection and Segmentation](https://medium.com/@abhinav.sagar/deep-learning-for-ship-detection-and-segmentation-71d223aca649).
